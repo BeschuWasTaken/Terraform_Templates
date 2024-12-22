@@ -1,1 +1,3 @@
-# Terraform_Templates
+# TerraformMaler
+
+- Les README-filene i malene.
